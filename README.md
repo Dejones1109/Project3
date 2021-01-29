@@ -7,7 +7,7 @@ make run
 
 mở openbrower
 truy cập http://localhost:8073 : view khóa học
-http: http://localhost:8083 : quản l
+http: http://localhost:8083 : quản lý kh
 # Open edX Docker
 
 France Université Numérique introduces an alternative `Docker` approach to
