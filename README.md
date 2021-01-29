@@ -1,4 +1,13 @@
-Moducle tham kh
+Hướng dẫn chạy nhận
+export EDX_RELEASE="hawthorn.1"
+export FLAVOR="oee"
+export EDX_RELEASE_REF="open-release/hawthorn.1"
+export EDX_DEMO_RELEASE_REF="open-release/hawthorn.1"
+make run
+
+mở openbrower
+truy cập http://localhost:8073 : view khóa học
+http: http://localhost:8083 : quản l
 # Open edX Docker
 
 France Université Numérique introduces an alternative `Docker` approach to
